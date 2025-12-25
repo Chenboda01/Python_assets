@@ -19,6 +19,7 @@ def number_to_guess():
         except ValueError:
             print("Please enter a valid integer.")
 
-    # Run all sections sequentially
-    print("\n=== Number Guessing Game ===")
-    number_to_guess()
+
+# Run all sections sequentially
+print("\n=== Number Guessing Game ===")
+number_to_guess()
