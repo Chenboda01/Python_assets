@@ -30,6 +30,7 @@ def dice_game():
     except Exception:
         pass
 
-    # Run all sections sequentially
-    print("\n=== Dice Rolling Game ===")
-    dice_game()
+
+# Run all sections sequentially
+print("\n=== Dice Rolling Game ===")
+dice_game()
