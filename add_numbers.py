@@ -24,6 +24,7 @@ def add_numbers():
     result = num1 + num2
     print(f"{num1} + {num2} = {result}")
 
-    # Run all sections sequentially
-    print("\n=== Addition Calculator ===")
-    add_numbers()
+
+# Run all sections sequentially
+print("\n=== Addition Calculator ===")
+add_numbers()
